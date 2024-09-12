@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ElevateAI",
-  description: "",
+  title: "VarAI",
+  description: "The All Round AI",
 };
 
 export default function RootLayout({
