@@ -1,8 +1,12 @@
 
+
 const DashboardPage = () => {
     return (
         <>
-            Dashboard Page(Protected)
+        <div>
+        <p>Dashboard Page(Protected)</p>
+        </div>
+            
         </>
     );
 };  
