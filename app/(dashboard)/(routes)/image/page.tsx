@@ -6,7 +6,7 @@ const Image = ()=>{
         <div>
             <Heading
             title="Artify"
-            description="Image Upload"
+            description="Image"
             icon={ImageIcon}
             iconColor="text-[#387478]"
             bgColor="bg-[#387478]/10"
